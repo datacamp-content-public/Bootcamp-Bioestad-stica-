@@ -30,6 +30,7 @@ Compone los 5 datos  { 2, 3, 4, 5, 6}  con la función que concatena c(2, 3, 4, 
 ```
 `@solution`
 ```{r}
+# vamos a calcular la media de 5 datos {2, 3, 4, 5, 6}
 x<-c(2,3,4,5,6)
 mean(x)
 ```
