@@ -1,7 +1,7 @@
 ---
-title: Template Chapter 1
+title: Estadística descriptiva básica
 description: >-
-  This is a template chapter.
+  
 
 
 ---
